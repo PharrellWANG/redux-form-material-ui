@@ -1,4 +1,4 @@
-import TimePicker from 'material-ui/TimePicker'
+import TimePicker from 'material-ui-previous/TimePicker'
 import createComponent from './createComponent'
 import mapError from './mapError'
 

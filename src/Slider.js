@@ -1,6 +1,6 @@
-import Slider from 'material-ui/Slider'
+import Slider from 'material-ui-previous/Slider'
 import createComponent from './createComponent'
-import mapError from './mapError'
+// import mapError from './mapError'
 
 export default createComponent(Slider, ({
   input: { onDragStart, onChange, name, value },

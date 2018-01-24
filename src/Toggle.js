@@ -1,4 +1,4 @@
-import Toggle from 'material-ui/Toggle'
+import Toggle from 'material-ui-previous/Toggle'
 import createComponent from './createComponent'
 
 export default createComponent(Toggle, ({
