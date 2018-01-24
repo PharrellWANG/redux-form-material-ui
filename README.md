@@ -1,5 +1,5 @@
 # PharrellWANG Notes
-1. See the published npm package here `https://www.npmjs.com/package/@pharrellwang/redux-form-material-ui`
+1. See the published npm package here <https://www.npmjs.com/package/@pharrellwang/redux-form-material-ui>
 2. Install it using command `yarn add @pharrellwang/redux-form-material-ui`
 
 
