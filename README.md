@@ -1,3 +1,8 @@
+# PharrellWANG Notes
+1. See the published npm package here `https://www.npmjs.com/package/@pharrellwang/redux-form-material-ui`
+2. Install it using command `yarn add @pharrellwang/redux-form-material-ui`
+
+
 # redux-form-material-ui
 ---
 [![NPM Version](https://img.shields.io/npm/v/redux-form-material-ui.svg?style=flat-square)](https://www.npmjs.com/package/redux-form-material-ui)
@@ -66,7 +71,7 @@ class MyForm extends Component {
         </Field>
 
         <Field name="agreeToTerms" component={Checkbox} label="Agree to terms?"/>
-        
+
         <Field name="eventDate" component={DatePicker} format={null} hintText="What day is the event?"/>
 
         <Field name="receiveEmails" component={Toggle} label="Please spam me!"/>
