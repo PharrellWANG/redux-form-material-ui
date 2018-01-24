@@ -1,6 +1,6 @@
 {
   "name": "@pharrellwang/redux-form-material-ui",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "description": "An adapter between Redux Form and Material UI components. (This package has been adapted to use the name of `material-ui-previous` to suit my own needs)",
   "main": "./lib/index.js",
   "jsnext:main": "./es/index.js",
