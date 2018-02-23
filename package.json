@@ -1,6 +1,6 @@
 {
   "name": "@pharrellwang/redux-form-material-ui",
-  "version": "4.2.2",
+  "version": "4.2.5",
   "description": "An adapter between Redux Form and Material UI components. (This package has been adapted to use the name of `material-ui-previous` to suit my own needs)",
   "main": "./lib/index.js",
   "jsnext:main": "./es/index.js",
@@ -66,16 +66,16 @@
     "mocha-lcov-reporter": "^1.3.0",
     "nyc": "^10.2.0",
     "prettier": "^1.1.0",
-    "react": "^15.5.4",
+    "react": "16.2.0",
     "react-addons-test-utils": "^15.5.1",
-    "react-dom": "^15.5.4",
+    "react-dom": "16.2.0",
     "react-tap-event-plugin": "^2.0.1",
     "rimraf": "^2.6.1",
     "webpack": "^2.3.3"
   },
   "peerDependencies": {
-    "react": "15",
-    "redux-form": "6"
+    "react": "16",
+    "redux-form": "^7.2.0"
   },
   "files": [
     "README.md",
